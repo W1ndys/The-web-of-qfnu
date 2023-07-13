@@ -10,3 +10,7 @@
 3.曲阜师范大学研究生招生网：https://yjs.qfnu.edu.cn/zsgz.htm
 
 4.曲阜师范大学中国教师博物馆：https://tchmuseum.qfnu.edu.cn/
+
+5.edusrc_qfnu：https://src.sjtu.edu.cn/list/firm/4425
+
+
